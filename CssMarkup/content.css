@@ -1,0 +1,50 @@
+.page {
+  width:400px;
+  height: auto;
+  line-height: 150%;
+  letter-spacing: 2px;
+  background-color: #D3D0CB;
+  padding: 0.5px;
+  
+}
+
+#article_title {
+  font-family: 'Anton', sans-serif;
+  font-weight: bold;
+  color: #461220;
+  margin-left:12px;
+  font-size: 26px;
+}
+
+#intro {
+  font-family: 'Oswald', sans-serif;
+  color: #8C2F39;
+  margin-left:12px;
+}
+
+.question{
+  font-family: 'Raleway', sans-serif;
+  color: #4C5760;
+  margin-left:12px;
+ 
+}
+
+.answer{
+  font-family: 'Raleway', sans-serif;
+  font-weight:bold;
+  color: #839788;
+  margin-left:12px;
+  
+}
+
+#block_quote {
+  font-family: 'Oswald', sans-serif;
+  font-weight:bold;
+  font-size:15px;
+  color:#8C2F39;
+  border-left:2px solid black;
+
+  padding: 6px;
+  margin-left: 25px;
+  
+}
